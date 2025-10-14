@@ -57,6 +57,19 @@ project:
     - title: 📚 Statistics For Business and Economics
       children:
         - file: doc/Stats-For-Biz-Econ/README.md
+    - title: 📚 Machine Learning by Doing
+      children:
+        - file: doc/Machine-Learning-aibydoing/README.md
+        - file: doc/Machine-Learning-aibydoing/requirement.md
+        - file: doc/Machine-Learning-aibydoing/01.机器学习综述及示例.ipynb
+        - file: doc/Machine-Learning-aibydoing/02.线性回归实现与应用.ipynb
+        - file: doc/Machine-Learning-aibydoing/03.北京市住房价格预测.ipynb
+        - file: doc/Machine-Learning-aibydoing/04.多项式回归实现与应用.ipynb
+        - file: doc/Machine-Learning-aibydoing/05.比特币价格预测及绘图.ipynb
+        - file: doc/Machine-Learning-aibydoing/06.岭回归和LASSO回归实现.ipynb
+        - file: doc/Machine-Learning-aibydoing/07.使用矩阵计算岭回归系数.ipynb
+        - file: doc/Machine-Learning-aibydoing/08.回归模型评价与检验.ipynb
+        - file: doc/Machine-Learning-aibydoing/09.回归方法综合应用练习.ipynb
     - title: 🧭 Topic Guides
       children:
         - file: tmp/markdown.md
