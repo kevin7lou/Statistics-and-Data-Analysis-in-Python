@@ -1,5 +1,5 @@
 # python>=3.9
-jupyter-book>=2.0.0b2
+jupyter-book>=2.0.0b3
 numpy
 pandas
 matplotlib
