@@ -67,12 +67,28 @@ parts:
 
 - caption: 📚 Machine Learning by Doing
   chapters:
+  - file: doc/Machine-Learning-aibydoing/README.md
+    title: 课程概览
+  - file: doc/Machine-Learning-aibydoing/requirement.md
+    title: 课程要求与依赖
+  - file: doc/Machine-Learning-aibydoing/01.机器学习综述及示例.ipynb
+    title: 机器学习综述及示例
   - file: doc/Machine-Learning-aibydoing/02.线性回归实现与应用.ipynb
     title: 线性回归实现与应用
   - file: doc/Machine-Learning-aibydoing/03.北京市住房价格预测.ipynb
     title: 北京市住房价格预测
   - file: doc/Machine-Learning-aibydoing/04.多项式回归实现与应用.ipynb
     title: 多项式回归实现与应用
+  - file: doc/Machine-Learning-aibydoing/05.比特币价格预测及绘图.ipynb
+    title: 比特币价格预测及绘图
+  - file: doc/Machine-Learning-aibydoing/06.岭回归和LASSO回归实现.ipynb
+    title: 岭回归和LASSO回归实现
+  - file: doc/Machine-Learning-aibydoing/07.使用矩阵计算岭回归系数.ipynb
+    title: 使用矩阵计算岭回归系数
+  - file: doc/Machine-Learning-aibydoing/08.回归模型评价与检验.ipynb
+    title: 回归模型评价与检验
+  - file: doc/Machine-Learning-aibydoing/09.回归方法综合应用练习.ipynb
+    title: 回归方法综合应用练习
 
 - caption: 🧭 Topic Guides
   # chapters:
